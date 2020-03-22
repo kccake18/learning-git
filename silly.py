@@ -1,6 +1,6 @@
 def main():
     print("This is just to show how things work")
-    print("Whoops ment no have two lines")
+    print("Woops! Meant to have two lines.")
 
 if __name__ == "__main__":
     main()
